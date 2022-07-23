@@ -1,7 +1,6 @@
-import "./App.css";
-
+import './App.css';
+import './input.css';
 function App() {
-  return <div className="App">Wow wow wow</div>;
+  return <>hELLO</>;
 }
-
 export default App;
